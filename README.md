@@ -12,4 +12,4 @@ Benchmarks:
   - [Arabic](OntoNotes5.0-Arabic.md)
   - [Chinese](OntoNotes5.0-Chinese.md)
 - Universal NER (UNER) v1
-  - [Chinese GSDSIMP](UNERv1-Chinese_GSDSIMP.md)
+  - [Chinese GSDSIMP](UNERv1-Chinese-GSDSIMP.md)
