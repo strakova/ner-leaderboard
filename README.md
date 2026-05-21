@@ -4,4 +4,7 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
 
 Benchmarks:
 
-- [Czech Named Entity Corpus (CNEC)](CNEC-Czech.md)
+- Czech Named Entity Corpus (CNEC)
+  - [Czech](CNEC-Czech.md)
+- CoNLL-2003
+  - [English](CoNLL-2003-English.md)
