@@ -11,3 +11,5 @@ Benchmarks:
 - OntoNotes 5.0
   - [Arabic](OntoNotes5.0-Arabic.md)
   - [Chinese](OntoNotes5.0-Chinese.md)
+- Universal NER (UNER) v1
+  - Chinese GSDSIMP
