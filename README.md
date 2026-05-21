@@ -10,3 +10,4 @@ Benchmarks:
   - [Czech](CNEC-Czech.md)
 - OntoNotes 5.0
   - [Arabic](OntoNotes5.0-Arabic.md)
+  - [Chinese](Ontonotes5.0-Chinese.md)
