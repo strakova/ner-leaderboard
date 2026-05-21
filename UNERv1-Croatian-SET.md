@@ -1,0 +1,10 @@
+# Universal NER (UNER) v1 Croatian SET
+
+- The original corpus: [UNER v1 Croatian SET](https://github.com/UniversalNER)
+- The original paper: [Mayhew et al. (2024)](https://aclanthology.org/2024.naacl-long.243/)
+
+| F1        | System | Code | External Data | Params |
+| --------- | ------ | ---- | ------------- | ------ |
+| **95.55** | [NameTag 3](https://ufal.mff.cuni.cz/nametag3) [(Straková & Straka, 2025)](https://aclanthology.org/2025.acl-demo.4/) | [GitHub](https://github.com/ufal/nametag3) | ✔ | 355M |
+| 95.00 | [Mayhew et al. (2024)](https://aclanthology.org/2024.naacl-long.243/) | – | ✘ | 355M |
+| 94.08 | [NameTag 3](https://ufal.mff.cuni.cz/nametag3) [(Straková & Straka, 2025)](https://aclanthology.org/2025.acl-demo.4/) | [GitHub](https://github.com/ufal/nametag3) | ✘ | 355M |
