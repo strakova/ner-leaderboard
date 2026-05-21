@@ -13,3 +13,4 @@ Benchmarks:
   - [Chinese](OntoNotes5.0-Chinese.md)
 - Universal NER (UNER) v1
   - [Chinese GSDSIMP](UNERv1-Chinese-GSDSIMP.md)
+  - [Chinese GSD](UNERv1-Chinese-GSD.md)
