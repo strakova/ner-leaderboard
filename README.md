@@ -14,4 +14,4 @@ Benchmarks:
 - Universal NER (UNER) v1
   - [Chinese GSDSIMP](UNERv1-Chinese-GSDSIMP.md)
   - [Chinese GSD](UNERv1-Chinese-GSD.md)
-  - [Croatian SET](UNERv1-Croatian-SED.md)
+  - [Croatian SET](UNERv1-Croatian-SET.md)
