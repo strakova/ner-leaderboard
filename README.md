@@ -15,3 +15,4 @@ Benchmarks:
   - [Chinese GSDSIMP](UNERv1-Chinese-GSDSIMP.md)
   - [Chinese GSD](UNERv1-Chinese-GSD.md)
   - [Croatian SET](UNERv1-Croatian-SET.md)
+  - [Danish DDT](UNERv1-Danish-DDT.md)
