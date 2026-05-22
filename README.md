@@ -8,6 +8,7 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
   - [Dutch](CoNLL-2002-Dutch.md)
 - CoNLL-2003
   - [English](CoNLL-2003-English.md)
+  - [German](CoNLL-2003-German.md)
 - Czech Named Entity Corpus (CNEC)
   - [Czech](CNEC-Czech.md)
 - OntoNotes 5.0
