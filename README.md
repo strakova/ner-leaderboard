@@ -19,3 +19,4 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
   - [Chinese GSD](UNERv1-Chinese-GSD.md)
   - [Croatian SET](UNERv1-Croatian-SET.md)
   - [Danish DDT](UNERv1-Danish-DDT.md)
+  - [English EWT](UNERv1-English-EWD.md)
