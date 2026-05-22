@@ -2,8 +2,8 @@
 
 | F1        | System | Paper | Code | External Data | Params |
 | --------- | ------ | ----- | ---- | ------------- | ------ |
-| **94.6** | [ACE + document-context](https://arxiv.org/abs/2010.05006v4) | [Automated Concatenation of Embeddings for Structured Prediction](https://arxiv.org/abs/2010.05006v4) | [GitHub](https://github.com/Alibaba-NLP/ACE) | ? | ? |
-| 94.3 | [LUKE 483M](https://arxiv.org/abs/2010.01057v1) | [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057v1) | [GitHub](https://github.com/huggingface/transformers) | ? | ? |
+| **94.6** | [ACE + document-context](https://arxiv.org/abs/2010.05006v4) | [Automated Concatenation of Embeddings for Structured Prediction](https://arxiv.org/abs/2010.05006v4) | [GitHub](https://github.com/Alibaba-NLP/ACE) | ✘ | 1853M |
+| 94.3 | [LUKE 483M](https://arxiv.org/abs/2010.01057v1) | [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057v1) | [GitHub](https://github.com/huggingface/transformers) | ? | 483M |
 | 94.22 | [Co-regularized LUKE](https://arxiv.org/abs/2104.08656v2) | [Learning from Noisy Labels for Entity-Centric Information Extraction](https://arxiv.org/abs/2104.08656v2) | [GitHub](https://github.com/wzhouad/NLL-IE) | ? | ? |
 | 94.2 | [LUKE + SubRegWeigh (K-means)](https://arxiv.org/abs/2409.06216v2) | [SubRegWeigh: Effective and Efficient Annotation Weighing with Subword Regularization](https://arxiv.org/abs/2409.06216v2) | [GitHub](https://github.com/4ldk/SubRegWeigh) | ? | ? |
 | 94.1 | [ASP+T5-3B](https://arxiv.org/abs/2210.14698v2) | [Autoregressive Structured Prediction with Language Models](https://arxiv.org/abs/2210.14698v2) | [GitHub](https://github.com/lyutyuh/asp) | ? | ? |
