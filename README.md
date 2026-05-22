@@ -9,8 +9,6 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
 - CoNLL-2003
   - [English](CoNLL-2003-English.md)
   - [German](CoNLL-2003-German.md)
-- Czech Named Entity Corpus (CNEC)
-  - [Czech](CNEC-Czech.md)
 - OntoNotes 5.0
   - [Arabic](OntoNotes5.0-Arabic.md)
   - [Chinese](OntoNotes5.0-Chinese.md)
@@ -25,3 +23,8 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
   - [Portuguese Bosque](UNERv1-Portuguese-Bosque.md)
   - [Serbian SET](UNERv1-Serbian-SET.md)
   - [Slovak SNK](UNERv1-Slovak-SNK.md)
+
+# Nested NER
+
+- Czech Named Entity Corpus (CNEC)
+  - [Czech](CNEC-Czech.md)
