@@ -20,3 +20,5 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
   - [Croatian SET](UNERv1-Croatian-SET.md)
   - [Danish DDT](UNERv1-Danish-DDT.md)
   - [English EWT](UNERv1-English-EWT.md)
+  - [Maghrebi Arabizi](UNERv1-Maghrebi-Arabizi.md)
+  - [Portuguese Bosque](UNERv1-Portuguese-Bosque.md)
