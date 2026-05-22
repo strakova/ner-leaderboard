@@ -22,3 +22,5 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
   - [English EWT](UNERv1-English-EWT.md)
   - [Maghrebi Arabizi](UNERv1-Maghrebi-Arabizi.md)
   - [Portuguese Bosque](UNERv1-Portuguese-Bosque.md)
+  - [Serbian SET](UNERv1-Serbian-SET.md)
+  - [Slovak SNK](UNERv1-Slovak-SNK.md)
