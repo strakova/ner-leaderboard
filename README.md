@@ -5,11 +5,11 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
 ## Flat NER
 
 - CoNLL-2002
-  - [Dutch](CoNLL-2002-Dutch.md)
-  - [Spanish](CoNLL-2002-Spanish.md)
+  - [Dutch](CoNLL-2002/CoNLL-2002-Dutch.md)
+  - [Spanish](CoNLL-2002/CoNLL-2002-Spanish.md)
 - CoNLL-2003
-  - [English](CoNLL-2003-English.md)
-  - [German](CoNLL-2003-German.md)
+  - [English](CoNLL-2003/CoNLL-2003-English.md)
+  - [German](CoNLL-2003/CoNLL-2003-German.md)
 - OntoNotes 5.0
   - [Arabic](OntoNotes5.0-Arabic.md)
   - [Chinese](OntoNotes5.0-Chinese.md)
