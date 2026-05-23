@@ -1,6 +1,6 @@
 # Universal NER (UNER) v1 Portuguese Bosque
 
-- The original corpus: [UNER v1 Portuguese Bosque](https://github.com/UniversalNER)
+- The original corpus: [UNER v1](https://github.com/UniversalNER)
 - The original paper: [Mayhew et al. (2024)](https://aclanthology.org/2024.naacl-long.243/)
 
 | F1        | System | Code | External Data | Params |
