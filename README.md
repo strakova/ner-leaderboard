@@ -15,15 +15,15 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
   - [Chinese](OntoNotes5.0/OntoNotes5.0-Chinese.md)
   - [English](OntoNotes5.0/OntoNotes5.0-English.md)
 - Universal NER (UNER) v1
-  - [Chinese GSDSIMP](UNERv1-Chinese-GSDSIMP.md)
-  - [Chinese GSD](UNERv1-Chinese-GSD.md)
-  - [Croatian SET](UNERv1-Croatian-SET.md)
-  - [Danish DDT](UNERv1-Danish-DDT.md)
-  - [English EWT](UNERv1-English-EWT.md)
-  - [Maghrebi Arabizi](UNERv1-Maghrebi-Arabizi.md)
-  - [Portuguese Bosque](UNERv1-Portuguese-Bosque.md)
-  - [Serbian SET](UNERv1-Serbian-SET.md)
-  - [Slovak SNK](UNERv1-Slovak-SNK.md)
+  - [Chinese GSDSIMP](UNERv1/UNERv1-Chinese-GSDSIMP.md)
+  - [Chinese GSD](UNERv1/UNERv1-Chinese-GSD.md)
+  - [Croatian SET](UNERv1/UNERv1-Croatian-SET.md)
+  - [Danish DDT](UNERv1/UNERv1-Danish-DDT.md)
+  - [English EWT](UNERv1/UNERv1-English-EWT.md)
+  - [Maghrebi Arabizi](UNERv1/UNERv1-Maghrebi-Arabizi.md)
+  - [Portuguese Bosque](UNERv1/UNERv1-Portuguese-Bosque.md)
+  - [Serbian SET](UNERv1/UNERv1-Serbian-SET.md)
+  - [Slovak SNK](UNERv1/UNERv1-Slovak-SNK.md)
 
 # Nested NER
 
