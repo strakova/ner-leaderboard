@@ -28,4 +28,4 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
 # Nested NER
 
 - Czech Named Entity Corpus (CNEC)
-  - [Czech](CNEC-Czech.md)
+  - [Czech](CNEC/CNEC-Czech.md)
