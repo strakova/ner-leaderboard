@@ -6,6 +6,7 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
 
 - CoNLL-2002
   - [Dutch](CoNLL-2002-Dutch.md)
+  - [Spanish](CoNLL-2002-Spanish.md)
 - CoNLL-2003
   - [English](CoNLL-2003-English.md)
   - [German](CoNLL-2003-German.md)
