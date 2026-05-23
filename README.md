@@ -11,9 +11,9 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
   - [English](CoNLL-2003/CoNLL-2003-English.md)
   - [German](CoNLL-2003/CoNLL-2003-German.md)
 - OntoNotes 5.0
-  - [Arabic](OntoNotes5.0-Arabic.md)
-  - [Chinese](OntoNotes5.0-Chinese.md)
-  - [English](OntoNotes5.0-English.md)
+  - [Arabic](OntoNotes5.0/OntoNotes5.0-Arabic.md)
+  - [Chinese](OntoNotes.5.0/OntoNotes5.0-Chinese.md)
+  - [English](OntoNotes5.0/OntoNotes5.0-English.md)
 - Universal NER (UNER) v1
   - [Chinese GSDSIMP](UNERv1-Chinese-GSDSIMP.md)
   - [Chinese GSD](UNERv1-Chinese-GSD.md)
