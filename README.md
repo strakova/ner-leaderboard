@@ -24,6 +24,9 @@ A curated collection of current state-of-the-art results for Named Entity Recogn
   - [Portuguese Bosque](UNERv1/UNERv1-Portuguese-Bosque.md)
   - [Serbian SET](UNERv1/UNERv1-Serbian-SET.md)
   - [Slovak SNK](UNERv1/UNERv1-Slovak-SNK.md)
+- Universal NER (UNER) v2
+  - [Norwegian Bokmål](UNERv2/UNERv2-Norwegian-Bokmaal-NDT.md)
+  - [Norwegian Nynorsk](UNERv2/UNERv2-Norwegian-Nynorsk-NDT.md)
 
 # Nested NER
 
